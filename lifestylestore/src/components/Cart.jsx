@@ -1,0 +1,1 @@
+// if cart is empty give a pop up message saying your cart or bucket is empty, Go on add something!
