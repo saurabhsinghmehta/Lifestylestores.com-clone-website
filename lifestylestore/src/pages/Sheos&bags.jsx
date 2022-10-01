@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Sheosbags() {
+function Shoesandbags() {
   return (
-    <div>Sheosbags</div>
+    <div>Shoesandbags</div>
   )
 }
 
-export default Sheosbags
+export default Shoesandbags

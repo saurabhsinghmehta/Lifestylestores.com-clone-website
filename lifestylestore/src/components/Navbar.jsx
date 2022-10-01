@@ -17,7 +17,7 @@ function Navbar() {
           height: "70px",
         }}
       >
-        <Link>
+        <Link to="/women">
           <img
             style={{
               width: "100px",
@@ -42,7 +42,7 @@ function Navbar() {
           <Link className="hoverEffect" to="/kids">
             Kids
           </Link>
-          <Link className="hoverEffect" to="/shoesBags">
+          <Link className="hoverEffect" to="/shoesandbags">
             Shoes & Bags
           </Link>
           <Link className="hoverEffect" to="/beauty">
